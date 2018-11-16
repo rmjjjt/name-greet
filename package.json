@@ -1,0 +1,11 @@
+{
+  "name": "name_greet",
+  "version": "1.0.2",
+  "description": "Example package to greet somebody using their name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhymes Toasterface",
+  "license": "ISC"
+}

@@ -1,6 +1,6 @@
 {
   "name": "name_greet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Example package to greet somebody using their name",
   "main": "index.js",
   "scripts": {
